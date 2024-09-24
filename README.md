@@ -14,7 +14,7 @@ A estrutura do repositório está organizada da seguinte forma:
 
 - O código para análise e tratamento de dados, desenvolvido em Jupyter/Python, está disponível no arquivo `AnaliseCovid_FIAP.ipynb`. Nele, estão todos os detalhes da análise e desenvolvimento do projeto.
 
-Para uma análise mais interativa e detalhada, desenvolvi também um dashboard em Power BI, que oferece inúmeras amostragens e visualizações, permitindo uma análise mais abrangente dos dados. Este dashboard está integrado à apresentação do Streamlit, mas pode ser acessado diretamente através do seguinte link:  [Tech Challenge COVID-19 - Power BI | Alberto Marson](LINK) 
+Para uma análise mais interativa e detalhada, desenvolvi também um dashboard em Power BI, que oferece inúmeras amostragens e visualizações, permitindo uma análise mais abrangente dos dados. Este dashboard está integrado à apresentação do Streamlit, mas pode ser acessado diretamente através do seguinte link:  [Tech Challenge COVID-19 - Power BI | Alberto Marson](https://app.powerbi.com/view?r=eyJrIjoiN2RiNDg5OGUtNjJkYi00MWVlLTk0ODMtMjBjZjZmMzQ3NjgyIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) 
 
 Além disso, no Streamlit, fiz um apanhado geral com tópicos de atenção e pontos relevantes, destacando as principais conclusões e insights gerados pelo estudo. Esses pontos, a meu ver, auxiliam no entendimento dos dados e na tomada de decisões estratégicas.
 
@@ -35,6 +35,6 @@ The repository is organized as follows:
 
 - The code for data analysis and processing, developed in Jupyter/Python, is available in the file `AnaliseCovid_FIAP.ipynb`. This file contains all the details of the analysis and development of the project.
 
-For a more interactive and detailed analysis, I also developed a Power BI dashboard that offers numerous samples and visualizations, enabling a broader analysis of the data. This dashboard is integrated into the Streamlit presentation but can also be accessed directly via the following link: [Tech Challenge COVID-19 - Power BI | Alberto Marson](LINK) 
+For a more interactive and detailed analysis, I also developed a Power BI dashboard that offers numerous samples and visualizations, enabling a broader analysis of the data. This dashboard is integrated into the Streamlit presentation but can also be accessed directly via the following link: [Tech Challenge COVID-19 - Power BI | Alberto Marson](https://app.powerbi.com/view?r=eyJrIjoiN2RiNDg5OGUtNjJkYi00MWVlLTk0ODMtMjBjZjZmMzQ3NjgyIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) 
 
 Thank you very much! 
