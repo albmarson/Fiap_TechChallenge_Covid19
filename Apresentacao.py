@@ -96,7 +96,7 @@ power_bi_url = "https://app.powerbi.com/view?r=eyJrIjoiN2RiNDg5OGUtNjJkYi00MWVlL
 
 # Centralizando o iframe do Power BI
 st.markdown(
-    f"<div style='display: flex; justify-content: center;'><iframe src='{power_bi_url}' width='1000' height='500' frameborder='0' allowFullScreen='true'></iframe></div>",
+    f"<div style='display: flex; justify-content: center;'><iframe src='{power_bi_url}' width='2000' height='1000' frameborder='0' allowFullScreen='true'></iframe></div>",
     unsafe_allow_html=True
 )
 
