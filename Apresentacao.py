@@ -92,7 +92,7 @@ Esse processo de extração e transformação de dados foi essencial para constr
 st.header("Análise Interativa de Dados")
 
 # URL do relatório do Power BI
-power_bi_url = ""
+power_bi_url = "https://app.powerbi.com/view?r=eyJrIjoiYWFjMjVlM2MtYjQyMS00YTZmLWI1YjktYWFiMzUzMzI3NWY1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9"
 
 # Centralizando o iframe do Power BI
 st.markdown(
