@@ -18,6 +18,8 @@ Para uma análise mais interativa e detalhada, desenvolvi também um dashboard e
 
 Além disso, no Streamlit, fiz um apanhado geral com tópicos de atenção e pontos relevantes, destacando as principais conclusões e insights gerados pelo estudo. Esses pontos, a meu ver, auxiliam no entendimento dos dados e na tomada de decisões estratégicas.
 
+Muito obrigado! 
+
 # Tech Challenge FIAP - COVID-19
 Dear Professors,
 
@@ -34,3 +36,5 @@ The repository is organized as follows:
 - The code for data analysis and processing, developed in Jupyter/Python, is available in the file AnaliseCovid_FIAP.ipynb. This file contains all the details of the analysis and development of the project.
 
 For a more interactive and detailed analysis, I also developed a Power BI dashboard that offers numerous samples and visualizations, enabling a broader analysis of the data. This dashboard is integrated into the Streamlit presentation but can also be accessed directly via the following link:
+
+Thank you very much! 
