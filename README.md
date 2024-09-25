@@ -4,7 +4,7 @@ Prezados professores,
 
 Este repositório contém os arquivos e códigos do estudo proposto pela FIAP como parte do projeto de conclusão do terceiro trimestre da pós-graduação em Data Analytics. O estudo faz uma análise do comportamento populacional durante a pandemia de COVID-19.
 
-O projeto foi implementado e está disponível no Streamlit. Vocês podem acessá-lo por meio do seguinte link: [Tech Challenge COVID-19 - Streamlit | Alberto Marson](LINK)
+O projeto foi implementado e está disponível no Streamlit. Vocês podem acessá-lo por meio do seguinte link: [Tech Challenge COVID-19 - Streamlit | Alberto Marson](https://fiaptechchallengecovid19.streamlit.app/)
 
 A estrutura do repositório está organizada da seguinte forma:
 
@@ -25,7 +25,7 @@ Dear Professors,
 
 This repository contains the files and code for the study proposed by FIAP as part of the third-term final project for the postgraduate program in Data Analytics. The study provides an analysis of population behavior during the COVID-19 pandemic.
 
-The project has been implemented and is available on Streamlit. You can access it via the following link: [Tech Challenge COVID-19 - Streamlit | Alberto Marson](LINK)
+The project has been implemented and is available on Streamlit. You can access it via the following link: [Tech Challenge COVID-19 - Streamlit | Alberto Marson](https://fiaptechchallengecovid19.streamlit.app/)
 
 The repository is organized as follows:
 
