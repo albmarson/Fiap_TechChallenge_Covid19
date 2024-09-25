@@ -100,6 +100,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+<br>
+
 st.markdown("""
 
 O dashboard apresentado acima oferece uma análise interativa dos dados, permitindo que os usuários explorem informações de forma dinâmica e visual. Com a crescente complexidade dos desafios enfrentados, especialmente durante períodos de crise, como a pandemia da covid-19, a necessidade de uma compreensão clara e acessível dos dados se tornou crucial.
