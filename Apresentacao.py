@@ -100,7 +100,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-<br>
+st.write("") 
 
 st.markdown("""
 
